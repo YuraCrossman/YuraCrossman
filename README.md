@@ -5,6 +5,8 @@ My name is Yuro4ka (hehehe 😄)
 - 🔭 I’m currently working on a *FACTORY* (cringe) as a junior IT specialist
 - 🌱 I’m currently learning is a Nodejs, C#, Unity, Godot, Java
 
+- 👨‍🦯 Experience in Full-Stack Web 9 years (since 2015)
+
 <!--
 **YuraCrossman/YuraCrossman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
