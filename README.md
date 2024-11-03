@@ -1,4 +1,9 @@
 ## Hi there 👋
+---
+My name is Yuro4ka (hehehe 😄)
+
+- 🔭 I’m currently working on a *FACTORY* (cringe) as a junior IT specialist
+- 🌱 I’m currently learning Nodejs, C#, Unity, Godot, Java
 
 <!--
 **YuraCrossman/YuraCrossman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
